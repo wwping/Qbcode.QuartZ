@@ -1,0 +1,11 @@
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\bin\Debug\netcoreapp3.1\Qbcode.QuartZ.deps.json
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\bin\Debug\netcoreapp3.1\Qbcode.QuartZ.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\bin\Debug\netcoreapp3.1\Qbcode.QuartZ.pdb
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.QuartZ\obj\Debug\netcoreapp3.1\Qbcode.QuartZ.pdb

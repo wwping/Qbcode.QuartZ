@@ -1,0 +1,11 @@
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\bin\Debug\netcoreapp3.0\Bumblebee.QuartZ.deps.json
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\bin\Debug\netcoreapp3.0\Bumblebee.QuartZ.dll
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\bin\Debug\netcoreapp3.0\Bumblebee.QuartZ.pdb
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\bin\Debug\netcoreapp3.0\Bumblebee.dll
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\bin\Debug\netcoreapp3.0\Bumblebee.pdb
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.csproj.CopyComplete
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.dll
+C:\绿色\projects\service.core30\api.core\Bumblebee.QuartZ\obj\Debug\netcoreapp3.0\Bumblebee.QuartZ.pdb
