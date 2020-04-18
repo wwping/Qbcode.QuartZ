@@ -1,6 +1,10 @@
 # Qbcode.QuartZ
 Bumblebee网关的QuartZ扩展插件，目前只支持定时调用接口
 
+# 在使用之前
+插件包括了一些新的功能  请使用  https://github.com/wwping/Bumblebee 这个修改过的库，主要功能会保持原项目同步更新
+
+
 ## 使用方法
 
 ### 1，加载插件
